@@ -45,7 +45,7 @@
 
 ## 2. Cleaning Actions Performed
 
-| # | Action | Records Affected |
+| # | Action | 
 |---|--------|-----------------|
 | 1 | Flagged all records with negative `shipping_delay_days` as `date_flag = INVALID` | 
 | 2 | Flagged all negative discount values as `Dis_flag = INVALID-NEGATIVE` | 
